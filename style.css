@@ -1,0 +1,85 @@
+html {
+  font-family: 'Roboto', 'Poppins', sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: #efefefef
+}
+
+header {
+  background-color: #009999;
+  color: #fff;
+  padding: 3rem 2rem;
+  text-align: center;
+  background-size: cover;
+
+}
+
+header h1 {
+  font-size: 3rem;
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+}
+
+.progamas-nacionales {
+  text-align: center;
+  color: #003153;
+  font-size: 2rem;
+}
+
+
+.informatica {
+  margin: 0;
+  float: left;
+  text-align: center
+}
+
+.img-pnf-informatica {
+  margin-top: -114px
+}
+
+.informatica p {
+
+  width: 50vw;
+}
+
+.telecomunicaciones {
+  margin: 0;
+  text-align: center;
+}
+
+p {
+  font-size: 1.3rem
+}
+
+h2 {
+  font-family: "Poppins", "Roboto", sans-serif;
+  color: #003153;
+  font-size: 2.8rem
+}
+
+.vision {
+  text-align: center;
+  color: #003153;
+  font-size: 2.6rem;
+}
+
+hr {
+  border: none;
+  background-color: #003153;
+  height: 5px;
+}
+
+.pre-ultimate {
+  margin-right: 10%;
+  float: right;
+}
+
+.ultimate {
+  margin-left: 10%;
+  float: left;
+}
